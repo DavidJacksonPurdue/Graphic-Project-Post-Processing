@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Users\David Jackson\Downloads\Asgn4-VS2012 (1)\Asgn4-VS2012\OpenGLFramework\OpenGLFramework\main.cpp(28,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn4-VS2012 (1)\Asgn4-VS2012\OpenGLFramework\OpenGLFramework\main.cpp(94,1): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\David Jackson\Downloads\Asgn4-VS2012 (1)\Asgn4-VS2012\OpenGLFramework\OpenGLFramework\main.cpp(466,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\David Jackson\Downloads\Asgn4-VS2012 (1)\Asgn4-VS2012\OpenGLFramework\OpenGLFramework\main.cpp(466,21): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  2 of 355 functions ( 0.6%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  OpenGLFramework.vcxproj -> C:\Users\David Jackson\Downloads\Asgn4-VS2012 (1)\Asgn4-VS2012\OpenGLFramework\Release\OpenGLFramework.exe
